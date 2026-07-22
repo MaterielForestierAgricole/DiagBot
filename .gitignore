@@ -1,0 +1,13 @@
+# Résultats reproductibles : ne jamais les versionner.
+/build/
+
+# Caches et environnements locaux.
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+
+# Fichiers de travail d'éditeurs.
+*.swp
+*.tmp
+*~
